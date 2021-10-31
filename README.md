@@ -3,9 +3,10 @@ Create Admin panel using NodeJS+adminBro with mongoDB atlas.
 
 # Demo
 Please use below credential for login
+```
 login: admin@email.com
 password: password
-
+```
 # Prerequisites
 
 
