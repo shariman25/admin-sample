@@ -44,6 +44,7 @@ const AdminBroOptions = {
                 }
                 return request
               },
+              isAccessible: canModifyUsers
             },
             delete: { isAccessible: canModifyUsers },
             // new: { isAccessible: canModifyUsers },
